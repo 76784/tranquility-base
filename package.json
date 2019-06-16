@@ -1,0 +1,34 @@
+{
+	"name": "tranquility-base",
+	"displayName": "Tranquility Base",
+	"description": "Medium contrast dark theme, with balanced colors to minimize eye strain",
+	"version": "1.0.0",
+	"publisher": "mike-flanigan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/76784/tranquility-base.git"
+	},
+	"license": "GNU General Public License v3.0",
+	"icon": "icon.png",
+	"keywords": [
+		"dark theme",
+		"low contrast",
+		"easy on eyes",
+		"eye strain"
+	],
+	"engines": {
+		"vscode": "^1.21.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tranquility Base",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tranquility-base-color-theme.json"
+			}
+		]
+	}
+}
