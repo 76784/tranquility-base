@@ -2,7 +2,7 @@
 	"name": "tranquility-base",
 	"displayName": "Tranquility Base",
 	"description": "Medium contrast dark theme, with balanced colors to minimize eye strain",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "mike-flanigan",
 	"repository": {
 		"type": "git",

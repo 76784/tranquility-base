@@ -1065,6 +1065,15 @@
         "settings": {
           "foreground": "#E0DBC7"
         }
+      },
+      {
+        "scope": [
+          "text.html.derivative string",
+          "text.html.handlebars meta.tag.block.any.html string"
+        ],
+        "settings": {
+          "foreground": "#c0dcc5"
+        }
       }
     ]
   }

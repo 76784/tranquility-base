@@ -4,7 +4,16 @@ All notable changes to the "Tranquility Base" extension will be documented in th
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [1.0.1] - 2019-06-16
+## [1.1.1] - 2019-06-18
+### Added
+- Handlebars
+    - attribute coloring
+
+### Changed
+- HTML
+    - attribute coloring    
+
+## [1.1.0] - 2019-06-16
 - JavaScript
     - coloring of function invocation
 
