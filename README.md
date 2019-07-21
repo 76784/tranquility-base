@@ -1,16 +1,23 @@
-# Tranquility Base - Medium contrast dark theme, with balanced colors to minimize eye strain
+# Tranquility Base - Dark & Light theme, easy on the eyes
 
 ## Supported Languages 
 Polished support for ES6 (JavaScript), HTML, CSS, SCSS, Markdown, JSON. General support for most other languages, based on the colors used for JavaScript.
 
-## Inspiration
-["Tranquility Base"][1] - Where the astronauts landed on the moon for the first time.
+## Inspiration, Philosophy, Etc.
+[Tranquility Base][1] - Where the astronauts landed on the moon for the first time.
 
 > Houston, Tranquility Base here. The _Eagle_ has landed. _- Neil Armstrong, from the surface of the Moon_
 
-With **Tranquility Base**, I am attempting to apply the design philosophy of ["Daobeam"][2] to a dark theme. 
+With **Tranquility Base Dark**, I am attempting to apply the design philosophy of [Daobeam][2] to a dark theme.
 
-Another inspiration is ["Zenburn"][3], but the foreground colors of Zenburn leave something to be desired. Also, none of the Zenburn implementations I have seen have consistency in the foreground colors (look at CSS in any of the VS Code Zenburn themes - there are random colors present). 
+**Tranquility Base Light** uses slightly modified versions of the **Daobeam** core colors.
+
+## On Contrast Level
+I am not a fan of high-contrast themes like Monokai. For me, they are like when you go into the showroom and see the television sets blasting big, bright colors - and when you get the set home, you realize you need to tone it down in order to watch it for long stretches.
+
+Describing the contrast "level" of a theme is a subjective thing. For me, it basically means how much the foreground colors contrast with the background color, and how much the foreground colors contrast with each other. It also describes the overall "feel" of the theme.
+
+I would describe **Tranquility Base Dark** as a mid-contrast theme, and **Tranquility Base Light** as a low-contrast one - even lower than **Daobeam**.
 
 !["Full Editor Screenshot"][6]
 
@@ -59,3 +66,5 @@ GNU General Public License v3.0
 [6]:https://raw.githubusercontent.com/76784/tranquility-base/master/screenshots/full-editor.png
 
 [7]:https://join.worldcommunitygrid.org?teamId=RF7TGV6H72
+
+[8]:https://raw.githubusercontent.com/76784/tranquility-base/master/screenshots/full-editor-light.png
