@@ -19,7 +19,9 @@ Describing the contrast "level" of a theme is a subjective thing. For me, it bas
 
 I would describe **Tranquility Base Dark** as a mid-contrast theme, and **Tranquility Base Light** as a low-contrast one - even lower than **Daobeam**.
 
-!["Full Editor Screenshot"][6]
+!["Full Editor Screenshot of dark theme"][6]
+
+!["Full Editor Screenshot of light theme"][8]
 
 ## About **Tranquility Base**
 All colors are meant to compliment each other. I have attempted to harmonize colors using [a professional tool][0].
