@@ -37,7 +37,7 @@ VS Code user settings has properties to increase the font-size of the source cod
 
 ```
 {
-    "workbench.colorTheme": "Tranquility Base",
+    "workbench.colorTheme": "Tranquility Base Dark",
     "editor.fontFamily": "Consolas",
     "editor.wordWrap": "on",
     "files.autoSave": "onFocusChange",

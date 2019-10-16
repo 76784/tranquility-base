@@ -24,12 +24,10 @@
         "gitDecoration.deletedResourceForeground": "#880088",
         "gitDecoration.modifiedResourceForeground": "#880000",
         "gitDecoration.untrackedResourceForeground": "#B95C00",
-        "gitDecoration.submoduleResourceForeground": "#666666",
-        
+        "gitDecoration.submoduleResourceForeground": "#666666",        
         "tab.inactiveBackground": "#D3D3D3",
         "tab.inactiveForeground": "#000000",
-        "tab.activeForeground": "#000000",
-        
+        "tab.activeForeground": "#000000",        
         "editor.lineHighlightBorder": "#BFBFBF",
         "sideBarTitle.foreground": "#000000",
         "sideBarSectionHeader.foreground": "#000000",
@@ -837,18 +835,16 @@
 	{
         "name": "jsdoc",
         "scope": [
-            "entity.name.type.instance.jsdoc"
-        ],
-        "settings": {
-            "fontStyle": "",
-            "foreground": "#005800"
-        }
-    }
-	,
-	{
-        "name": "jsdoc",
-        "scope": [
-            "comment.block.documentation.js storage.type.class.jsdoc"
+            "entity.name.type.instance.jsdoc",
+            "comment.block.documentation.js storage.type.class.jsdoc",
+            "comment.block.documentation.js variable.other.object.tsx",
+            "comment.block.documentation.js variable.other.readwrite.tsx",
+            "comment.block.documentation.js variable.other.property.tsx",
+            "comment.block.documentation.js variable.other.jsdoc",
+            "comment.block.documentation.js entity.name.function.tsx",
+            "comment.block.documentation.js string.quoted.single.tsx",
+            "comment.block.documentation.js string.quoted.double.tsx",
+            "comment.block.documentation.js punctuation.separator.key-value.tsx"
         ],
         "settings": {
             "fontStyle": "",
