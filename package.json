@@ -2,7 +2,7 @@
 	"name": "tranquility-base",
 	"displayName": "Tranquility Base",
 	"description": "Dark & Light themes, easy on the eyes",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"publisher": "mike-flanigan",
 	"repository": {
 		"type": "git",
@@ -30,7 +30,7 @@
 			{
 				"label": "Tranquility Base Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/tranquility-base-color-theme.json"
+				"path": "./themes/tranquility-base-dark-color-theme.json"
 			},
 			{
 				"label": "Tranquility Base Light",

@@ -4,6 +4,11 @@ All notable changes to the "Tranquility Base" extension will be documented in th
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.3] - 2020-2-1
+### Changed
+- Remove DOM coloring (VS Code removed the scope)
+- Cleanup
+
 ## [2.0.2] - 2019-10-15
 ### Changed
 - JSDoc comments
