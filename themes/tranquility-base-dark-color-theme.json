@@ -668,7 +668,17 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#c7bb89"
+        "foreground": "#E0DBC7"
+      }
+    },
+    {
+      "name": "import-export-all.js",
+      "scope": [
+        "source.js meta.import.js constant.language.import-export-all.js"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#E0DBC7"
       }
     },
     {

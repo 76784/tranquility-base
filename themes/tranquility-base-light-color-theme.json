@@ -677,6 +677,16 @@
       }
     },
     {
+      "name": "import-export-all.js",
+      "scope": [
+        "source.js meta.import.js constant.language.import-export-all.js"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#660000"
+      }
+    },
+    {
       "name": "`Component`",
       "scope": [
         "source.js meta.class.js entity.other.inherited-class.js"
