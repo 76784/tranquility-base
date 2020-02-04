@@ -89,13 +89,13 @@
         "foreground": "#a1560c"
       }
     },
-  {
+    {
       "name": "HTML comment",
       "scope": "comment.block.html",
       "settings": {
         "foreground": "#a1560c"
-    }
-  },
+      }
+    },
     {
       "scope": "entity.name.selector",
       "settings": {
@@ -784,16 +784,16 @@
         "foreground": "#a1560c"
       }
     },
-  {
-    "name": "jsdoc",
-    "scope": [
-      "comment.block.documentation.js storage.type.class.jsdoc"
-    ],
-    "settings": {
-      "foreground": "#a1560c",
-      "fontStyle": "bold"
-    }
-  },
+    {
+      "name": "jsdoc",
+      "scope": [
+        "comment.block.documentation.js storage.type.class.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#a1560c",
+        "fontStyle": "bold"
+      }
+    },
     {
       "name": "Tag name in CSS file",
       "scope": [

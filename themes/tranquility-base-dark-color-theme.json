@@ -107,7 +107,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#c7bb89"
+        "foreground": "#E0DBC7"
       }
     },
     {
@@ -116,7 +116,7 @@
         "constant.regexp"
       ],
       "settings": {
-        "foreground": "#c7bb89"
+        "foreground": "#E0DBC7"
       }
     },
     {
@@ -172,7 +172,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#c7bb89"
+        "foreground": "#E0DBC7"
       }
     },
     {
@@ -695,7 +695,7 @@
         "support.function.promise.js"
       ],
       "settings": {
-        "foreground": "#008888",
+        "foreground": "#84d4d1",
         "fontStyle": "italic bold"
       }
     },
@@ -705,7 +705,7 @@
         "support.class.promise.js"
       ],
       "settings": {
-        "foreground": "#008888",
+        "foreground": "#84d4d1",
         "fontStyle": "bold"
       }
     },
@@ -746,7 +746,7 @@
         "meta.object-literal.key.js"
       ],
       "settings": {
-        "foreground": "#E0DBC7"
+        "foreground": "#c7bb89"
       }
     },
     {
